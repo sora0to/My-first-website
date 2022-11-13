@@ -1,0 +1,170 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.wrapper {
+    max-width: 1440px;
+    background-color: #F1F1EB;
+    margin: 0 auto;
+}
+
+.naw {
+    display: flex;
+    padding: 46px 50px;
+}
+
+
+
+.naw__ul {
+    margin: 0 0 0 580px;
+    display: flex;
+}
+
+li,
+a {
+    color: black;
+    font-size: 18px;
+    margin-right: 36px;
+}
+
+.text {
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 100px;
+}
+
+.about__text {
+    margin: 134px 111px 136px 60px;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 100px;
+}
+
+.about__img {
+    padding: 20px;
+    margin-bottom: 84px;
+}
+
+.btn a {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    border: 1px solid black;
+    padding: 11px 17px;
+}
+
+.lernmore {
+    padding: 0 60px;
+}
+
+.learnmore__btn {
+    margin: 50px 0 90px 60px;
+}
+
+.container {
+    display: flex;
+}
+
+.firstblock {
+    margin-bottom: 90px;
+}
+
+.firstblock__block {
+    margin: 0 100px;
+    align-self: center;
+    margin-bottom: 90px;
+}
+
+.firstblock__text {
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 44px;
+    max-width: 601px;
+    margin: 0 0 56px 0;
+}
+
+.secondblock {
+    justify-content: end;
+}
+
+.secondblock__block {
+    margin: 0 202px 0 0;
+    align-self: center;
+    max-width: 528px;
+}
+
+.secondblock__text {
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 44px;
+    margin-bottom: 55px;
+}
+
+.brown {
+    background: #4B321D;
+    border-radius: 16px;
+    color: #fff;
+    padding: 84px 0 60px 110px;
+    margin: 90px 20px 84px 20px;
+}
+
+.brown__text {
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 100px;
+    margin-bottom: 45px;
+}
+
+.brown__ceo {
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 36px;
+}
+
+.goodfit {
+    padding-left: 60px;
+    margin-bottom: 101px;
+}
+
+.goodfit__text {
+    margin-bottom: 66px;
+}
+
+.footer {
+    min-height: 396px;
+    display: flex;
+    margin-top: 101px;
+
+}
+
+.tx {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+}
+
+.footer__logo {
+    padding: 99px 511px 100px 60px;
+}
+
+.footer__by {
+    display: flex;
+}
+
+.footer__name {
+    margin-left: 5px;
+}
+
+.footer__palm {
+    margin-top: 83px;
+}
+
+.footer__ul {
+    display: flex;
+    padding: 99px 0 0 0;
+}
+
+.ul1,
+.ul2 {
+    margin-right: 90px;
+}
